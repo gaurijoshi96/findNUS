@@ -1,5 +1,7 @@
 # findNUS
 
+This application enables the user to enter the location on campus they want to leave from and the venue they want to alight at. The application then outputs the various buses the user can take and the fastest route. 
+
 # Target Audience 
 Aim to benefit NUS students who use the NUS buses
 
