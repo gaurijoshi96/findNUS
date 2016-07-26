@@ -1,9 +1,9 @@
 # findNUS
 
-This application enables the user to enter the location on campus they want to leave from and the venue they want to alight at. The application then outputs the various buses the user can take and the fastest route. 
+This web application enables the user to enter the location on campus they want to leave from and the venue they want to alight at. The application then outputs the various buses the user can take and the fastest route. In addition, we have a 'dining' feature where users can key in their current location and we output the places they can eat nearby!
 
 # Target Audience 
-Aim to benefit NUS students who use the NUS buses
+Aim to benefit NUS students who use the NUS buses and visitors to NUS who are not aware of how to navigate around. 
 
 # Problem definition  
 
@@ -37,4 +37,8 @@ We aim to create a product that fulfills the basic criteria required such as dat
 10. Let peers assess the application and provide feedback. 
 11. Use feedback to further refine the prototype. 
 
+#Aim for Milestone 3 
 
+1. Complete feature 3 
+2. Design and beautify the website 
+3. Insert a drop down menu for easier navigation. 
