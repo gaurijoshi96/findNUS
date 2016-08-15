@@ -46,7 +46,7 @@ We aim to create a product that fulfills the basic criteria required such as dat
 
 #Post milestone 3 Features 
 
-Bus Navigation 
+#1. Bus Navigation 
 Takes in the Inputs ‘current location’ and ‘destination’
  Outputs the buses that one can take 
  Outputs the bus with the smallest number of  stops
@@ -63,7 +63,7 @@ I am a visitor to NUS and i am unsure of the various buses and which bus i can t
 
 
 
-Dining Navigation 
+#2. Dining Navigation 
 Takes in the input ‘current location’ 
 Outputs the dining places in that location 
 
@@ -72,10 +72,10 @@ Output exact location of the dining places for efficiency
 
 User stories
 As a student / visitor, i am unaware of the different dining places around campus. 
-Campus Area Navigation 
+
+#3. Campus Area Navigation 
 Takes in the input ‘Area’
 Outputs the faculty closest to that location 
-
 
 Improvements 
 Outputs bus stop closest to the location 
