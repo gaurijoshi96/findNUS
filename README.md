@@ -42,3 +42,44 @@ We aim to create a product that fulfills the basic criteria required such as dat
 1. Complete feature 3 
 2. Design and beautify the website 
 3. Insert a drop down menu for easier navigation. 
+
+
+#Post milestone 3 Features 
+
+Bus Navigation 
+Takes in the Inputs ‘current location’ and ‘destination’
+ Outputs the buses that one can take 
+ Outputs the bus with the smallest number of  stops
+ Outputs the number of stops 
+
+Improvements 
+Outputs number of stops for all bus routes not only the shortest route
+
+User stories 
+I am a year 1 freshmen and i find it very confusing to figure out which bus i can take to a certain location. 
+I am a year 3 NUS student but i am still unsure of some unfamiliar locations and which bus i can take to these locations. 
+I am a NUS student and i would like to know which bus is the fastest to get to a certain location. 
+I am a visitor to NUS and i am unsure of the various buses and which bus i can take to get to a certain location. 
+
+
+
+Dining Navigation 
+Takes in the input ‘current location’ 
+Outputs the dining places in that location 
+
+Improvements 
+Output exact location of the dining places for efficiency 
+
+User stories
+As a student / visitor, i am unaware of the different dining places around campus. 
+Campus Area Navigation 
+Takes in the input ‘Area’
+Outputs the faculty closest to that location 
+
+
+Improvements 
+Outputs bus stop closest to the location 
+
+
+User stories
+As a student/visitor, i am still unaware of the different areas and where i can find them. 
